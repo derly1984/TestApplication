@@ -10,6 +10,8 @@ namespace TestConsole
   {
     static void Main(string[] args)
     {
+      Console.WriteLine("Hello .NET course");
+      Console.ReadKey();
     }
   }
 }

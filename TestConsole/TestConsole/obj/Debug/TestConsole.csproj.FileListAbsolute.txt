@@ -1,1 +1,7 @@
 D:\derly1984\TestApplication\TestApplication\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\bin\Debug\TestConsole.exe
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\bin\Debug\TestConsole.pdb
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\obj\Debug\TestConsole.exe
+C:\Users\Vyatchanin_AS\Desktop\TestApplication\TestConsole\TestConsole\obj\Debug\TestConsole.pdb
